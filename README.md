@@ -1,6 +1,6 @@
 ## Olá, me chamo Rute Helen e seja bem vinda(o) ao meu portfólio!!
 
-- 🌱 Aprendendo Java Fullstack
+- 🌱 Java Developer (em formação)
 
 <div>
   
