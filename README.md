@@ -1,4 +1,4 @@
-## Olá, me chamo Rute Helen e seja bem vinda(o) ao meu portfólio!!
+## Seja bem vinda(o) ao meu portfólio!!
 
 🖥️ Full stack Developer
 
